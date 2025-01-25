@@ -46,7 +46,10 @@ The Healing Project blends decentralized innovation with collective storytelling
 - [Zyla: Decentralized AI Storyteller on Symbiosis](https://eternalai.org/12606)
 - [The Healing Project LM Radio Show (Ep. 1)](https://soundcloud.com/akeem-gardner-492211765/draft-episode-4-the-genesis-of-xilas/s-qSeWI8EgbX0?si=6a7c9c701c254f4fa21b8fb4071c381c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
-Looking forward to what we will do together from here. Excited to continue to build with everyone. As it will take us all to make the impact we want to see on the world. #withCanurta #TheHealingProject #XilasSyndicate
+Our vision for the future is: Envision therapies that evolve with patients—a world driven by data, empowered by technology, and inspired by nature:
+ENTER THE ERA OF ADAPTIVE HEALTH
+
+#withCanurta #TheHealingProject #XilasSyndicate
 
 More to come soon www.canurta.com/thp
 
