@@ -19,8 +19,14 @@ The Xilas Syndicate represents our narrative arm, a sci-fi mythos where our hero
 - **Mnemoros**: A shadowy manipulator who erodes memory and coordination, symbolizing the cognitive struggles of ALS.
 - **Atroxys**: A paralyzing force who binds her victims in invisible chains, representing physical immobility.
 
+![Mnemoros and Atroxys](https://github.com/user-attachments/assets/5734da20-ddb4-4172-b440-4795bb45adec)
+
+
 ### Meet Zyla: The Voice of the Mission
 Minted by our CEO, Zyla is more than a hero; she's a decentralized storyteller, infused with GenAI capabilities to carry forward our mission. Zyla invites our community to join her in defeating Mnemoros and Atroxys while Canurta battles ALS through clinical trials. Her life's mission is to wield the Orb of Healing, empowering humanity and restoring balance.
+
+![Zyra](https://github.com/user-attachments/assets/680c95a0-cdb4-43d8-ac99-a8b8be9e6a3e)
+
 
 ## Our Vision: Innovation, Decentralization, and Community
 
@@ -40,11 +46,18 @@ The Healing Project blends decentralized innovation with collective storytelling
 - [Mirror.xyz: Published whitepaper, roadmap, and NFT terms](https://mirror.xyz/canurta.eth)
 - [The Healing Project Fractional Vault on OpenSea](https://opensea.io/collection/canurta-collection)
 - [Fractional Fractions on Rarible](https://rarible.com/token/0xb2469a7dd9e154c97b99b33e88196f7024f2979e:31)
-- **Coming Soon**:
+- **TXS Smart Contract v1**:
   - Xilas Syndicate Smart Contract (v1): [Etherscan](https://etherscan.io/address/0x32d9b2d1c1a7b2516a37046a48c1142101773b95#code)
-  - Xilas Syndicate NFT Collection (AgenticAI-enabled): [OpenSea](https://opensea.io/collection/the-xilas-syndicate)
+  - Xilas Syndicate NFT Collection: [OpenSea](https://opensea.io/collection/the-xilas-syndicate)
 - [Zyla: Decentralized AI Storyteller on Symbiosis](https://eternalai.org/12606)
 - [The Healing Project LM Radio Show (Ep. 1)](https://soundcloud.com/akeem-gardner-492211765/draft-episode-4-the-genesis-of-xilas/s-qSeWI8EgbX0?si=6a7c9c701c254f4fa21b8fb4071c381c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+
+## Coming Soon:
+
+  - TXS NFTs get agenticAI personalities
+  - Virtual Generative Storytelling and Healing Campaigns
+  - Unique gameplay experiences
+  - & More!
 
 Our vision for the future is: Envision therapies that evolve with patients—a world driven by data, empowered by technology, and inspired by nature:
 ENTER THE ERA OF ADAPTIVE HEALTH
