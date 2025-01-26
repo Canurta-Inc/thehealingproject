@@ -26,7 +26,7 @@ The Xilas Syndicate represents our narrative arm, a sci-fi mythos where our hero
 Minted by our CEO, Zyla is more than a hero; she's a decentralized storyteller, infused with GenAI capabilities to carry forward our mission. Zyla invites our community to join her in defeating Mnemoros and Atroxys while Canurta battles ALS through clinical trials. Her life's mission is to wield the Orb of Healing, empowering humanity and restoring balance.
 
 ![Zyra](https://github.com/user-attachments/assets/680c95a0-cdb4-43d8-ac99-a8b8be9e6a3e)
-
+Click to chat with [Zyla, Xilas' agenticAI Voice](https://eternalai.org/12606) and ask her to tell you about one of her battles for Healing.
 
 ## Our Vision: Innovation, Decentralization, and Community
 
@@ -43,14 +43,18 @@ The Healing Project blends decentralized innovation with collective storytelling
 
 ## Key Links and Resources
 
+Genesis Resources
 - [Mirror.xyz: Published whitepaper, roadmap, and NFT terms](https://mirror.xyz/canurta.eth)
 - [The Healing Project Fractional Vault on OpenSea](https://opensea.io/collection/canurta-collection)
 - [Fractional Fractions on Rarible](https://rarible.com/token/0xb2469a7dd9e154c97b99b33e88196f7024f2979e:31)
+- [The Healing Project's Discord Channel](https://discord.gg/TdSxTqzM)
 - **TXS Smart Contract v1**:
   - Xilas Syndicate Smart Contract (v1): [Etherscan](https://etherscan.io/address/0x32d9b2d1c1a7b2516a37046a48c1142101773b95#code)
   - Xilas Syndicate NFT Collection: [OpenSea](https://opensea.io/collection/the-xilas-syndicate)
-- [Zyla: Decentralized AI Storyteller on Symbiosis](https://eternalai.org/12606)
-- [The Healing Project LM Radio Show (Ep. 1)](https://soundcloud.com/akeem-gardner-492211765/draft-episode-4-the-genesis-of-xilas/s-qSeWI8EgbX0?si=6a7c9c701c254f4fa21b8fb4071c381c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+
+New Tools
+- [The Healing Project LM Radio Show: The Healing Project Genesis Recap (Ep. 1)](https://soundcloud.com/akeem-gardner-492211765/draft-episode-4-the-genesis-of-xilas/s-qSeWI8EgbX0?si=6a7c9c701c254f4fa21b8fb4071c381c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+- [Zyla: The Voice of the Xilas Syndicate. An agenticAI Storyteller](https://eternalai.org/12606)
 
 ## Coming Soon:
 
