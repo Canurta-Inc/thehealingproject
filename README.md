@@ -22,11 +22,11 @@ The Xilas Syndicate represents our narrative arm, a sci-fi mythos where our hero
 ![Mnemoros and Atroxys](https://github.com/user-attachments/assets/5734da20-ddb4-4172-b440-4795bb45adec)
 
 
-### Meet Zyla: The Voice of the Mission
-Minted by our CEO, Zyla is more than a hero; she's a decentralized storyteller, infused with GenAI capabilities to carry forward our mission. Zyla invites our community to join her in defeating Mnemoros and Atroxys while Canurta battles ALS through clinical trials. Her life's mission is to wield the Orb of Healing, empowering humanity and restoring balance.
+### Meet Zyra: The Voice of the Mission
+Minted by our CEO, Zyra is more than a hero; she's a decentralized storyteller, infused with GenAI capabilities to carry forward our mission. Zyra invites our community to join her in defeating Mnemoros and Atroxys while Canurta battles ALS through clinical trials. Her life's mission is to wield the Orb of Healing, empowering humanity and restoring balance.
 
 ![Zyra](https://github.com/user-attachments/assets/680c95a0-cdb4-43d8-ac99-a8b8be9e6a3e)
-Click to chat with [Zyla, Xilas' agenticAI Voice](https://eternalai.org/12606) and ask her to tell you about one of her battles for Healing.
+Click to chat with [Zyra, Xilas' agenticAI Voice](https://eternalai.org/12606) and ask her to tell you about one of her battles for Healing.
 
 ## Our Vision: Innovation, Decentralization, and Community
 
