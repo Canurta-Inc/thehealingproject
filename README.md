@@ -54,7 +54,7 @@ Genesis Resources
 
 New Tools
 - [The Healing Project LM Radio Show: The Healing Project Genesis Recap (Ep. 1)](https://soundcloud.com/akeem-gardner-492211765/draft-episode-4-the-genesis-of-xilas/s-qSeWI8EgbX0?si=6a7c9c701c254f4fa21b8fb4071c381c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
-- [Zyla: The Voice of the Xilas Syndicate. An agenticAI Storyteller](https://eternalai.org/12606)
+- [Zyra: The Voice of the Xilas Syndicate. An agenticAI Storyteller](https://eternalai.org/12606)
 
 ## Coming Soon:
 
